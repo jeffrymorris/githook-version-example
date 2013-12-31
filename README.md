@@ -1,3 +1,3 @@
 githook-version-example
 =======================
-edit
+edit. 
