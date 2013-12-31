@@ -1,7 +1,8 @@
 githook-version-example
 =======================
-edit. 
+edit. sadsad
 c
 sa
 aS
+x
 x
