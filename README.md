@@ -1,6 +1,6 @@
 githook-version-example
 =======================
-Illustrates usage of a git hook, specifically a "post-merge" hook to embed the current git describe results into an assembly as an embedded resource and dispay the results.
+Illustrates usage of a git hook, specifically a "post-merge" hook, to embed the current git describe results into an assembly as an embedded resource and display the results.
 
 ##To use:
 1. Clone the repo
