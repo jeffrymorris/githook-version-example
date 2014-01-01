@@ -12,3 +12,4 @@ Illustrates usage of a git hook, specifically a "post-merge" hook, to embed the 
 ###References
 *https://www.kernel.org/pub/software/scm/git/docs/githooks.html
 *https://www.kernel.org/pub/software/scm/git/docs/git-describe.html
+
