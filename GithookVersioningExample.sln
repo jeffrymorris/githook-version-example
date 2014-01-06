@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithookVersioningExample", "src\GithookVersioningExample.csproj", "{FB86449F-CE18-4E68-B389-B9142850D57A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithookVersioningExampleTests", "GithookVersioningExampleTests\GithookVersioningExampleTests.csproj", "{AA595043-CB69-41DD-96E9-345A9D91E1A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{FB86449F-CE18-4E68-B389-B9142850D57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB86449F-CE18-4E68-B389-B9142850D57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB86449F-CE18-4E68-B389-B9142850D57A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA595043-CB69-41DD-96E9-345A9D91E1A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA595043-CB69-41DD-96E9-345A9D91E1A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA595043-CB69-41DD-96E9-345A9D91E1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA595043-CB69-41DD-96E9-345A9D91E1A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

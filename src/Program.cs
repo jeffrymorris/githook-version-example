@@ -27,7 +27,6 @@ namespace GithookVersioningExample
                     }
                 }
             }
-
             Console.Read();
         }
     }
